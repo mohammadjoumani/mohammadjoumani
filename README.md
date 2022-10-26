@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohammadjoumani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammadjoumani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadjoumani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadjoumani" height="30" width="40" /></a>
-<a href="https://fb.com/mohammadjoumani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadjoumani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-joumani-513443218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-joumani-513443218" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohammad.joumani.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammad.joumani.7" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadjoumani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadjoumani" height="30" width="40" /></a>
 </p>
 
